@@ -2,3 +2,15 @@
     margin: 10px;
     float: left;
 }
+
+.bloco2 {
+    /* 4.b) Modifique a largura da section da classe “bloco2” para 500px  */
+    width: 500px;
+
+    /* 4.c) Altere o valor da propriedade float da section da classe “bloco2” para left */
+    float: left;
+}
+/* 4.d) Defina uma margem esquerda de 700px para a section da classe “bloco3”.  */
+.bloco3 {
+    margin-left: 700px;
+}
